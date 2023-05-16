@@ -14,7 +14,7 @@ const About = () => {
           </p>
           
           <p className='py-2 text-[#8FD2D6] text-2xl'>
-          Mesmo com a legislação exigindo essa "acessibilidade" muitas empresas não se preocupam, tornando assim a vida dos surdos(cidadãos) muito díficil, inviabilizando o acesso a diversos serviços que qualquer ser humano necessita para viver com dignidade,
+          Mesmo com a legislação exigindo essa "acessibilidade" muitas empresas não se preocupam, tornando assim a vida dos surdos(cidadãos) muito díficil, inviabilizando o acesso a diversos serviços que qualquer ser humano necessita para viver com dignidade.
           </p>
           <h2 className='py-4 text-[#0A3235]'>Como Funciona?</h2>
           <p className='py-2 text-[#8FD2D6] text-2xl'>
